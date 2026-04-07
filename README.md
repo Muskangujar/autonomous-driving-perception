@@ -1,4 +1,4 @@
-# 🚗 Autonomous Driving Perception Pipeline
+# Autonomous Driving Perception Pipeline
 
 Real-time perception system combining **lane detection** (classical OpenCV) and **object detection** (YOLOv8 nano) into a single video stream — optimised for CPU-only laptops.
 
